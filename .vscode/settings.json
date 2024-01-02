@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "commondigest.h": "c",
+        "user.h": "c"
+    }
+}

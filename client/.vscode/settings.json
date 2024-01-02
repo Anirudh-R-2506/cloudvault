@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "user.h": "c",
+        "commondigest.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "main.h": "c",
+        "socket.h": "c",
+        "stat.h": "c",
+        "fcntl.h": "c",
+        "time.h": "c",
+        "stdbool.h": "c"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "socket.h": "c",
+        "in.h": "c",
+        "stat.h": "c",
+        "inet.h": "c",
+        "pthread.h": "c",
+        "types.h": "c",
+        "logs.h": "c",
+        "time.h": "c",
+        "stdlib.h": "c",
+        "fcntl.h": "c",
+        "file.h": "c",
+        "main.h": "c",
+        "user.h": "c"
+    }
+}
